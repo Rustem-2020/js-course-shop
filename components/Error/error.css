@@ -1,0 +1,12 @@
+.error-container {
+ width:500px;
+ margin:0 auto;
+ background: rgb(255, 116, 116);
+ padding:20px;
+ margin-top:30px;
+}
+.error-para{
+    background: #000;
+    padding:10px 20px;
+    color:chocolate;
+}

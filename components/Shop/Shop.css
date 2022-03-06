@@ -1,0 +1,26 @@
+.shopping_container{
+    width:97%;
+    height:97wv;
+    position:fixed;
+    padding:30px;
+    background:rgb(179, 240, 155);
+    top:0;
+    left:1.5%;
+    border:3px solid rgb(3, 151, 94);
+
+}
+.shopping_element__name{
+
+}
+.shopping_element__price{
+
+}
+.shopping_close{
+    text-decoration:underline;
+    border-bottom:2px solid rgb(3, 151, 94);
+    text-align:right;
+    cursor:pointer;
+}
+.shopping_container table tr:last-child td {
+    border-top:2px solid rgb(3, 151, 94);
+}
